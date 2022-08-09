@@ -1,4 +1,4 @@
-### Olá estranho !!! 👋
+### Olá pessoa !!! 👋
 
 Eu me chamo Vitor Manoel, atualmente estudo Ciência da Computação na UFMT.
 
